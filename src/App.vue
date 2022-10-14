@@ -22,35 +22,6 @@
 
 </template>
 
-<style>
-  #marco {
-  display: flex;
-  flex-direction: column;
-  border: 2px solid rgb(160, 148, 148);
-  width: 1400px;
-  height: 900px;
-}
- 
-#titulo {
-  border: 1px solid rgb(160, 148, 148);
-}
- 
-#central {
-  border: 1px solid rgb(160, 148, 148);
-  width: 1318px;
-  height: 800px;
-}
- 
-#menuNav {
-  border: 1px solid rgb(160, 148, 148);
-  width: 1400px;
-}
- 
-#contenido {
-  width: 1400px;
-}
- 
-#pie {
-  width: 1318px;
-}
-</style>
+
+
+
